@@ -16,4 +16,14 @@ git branch						//branch check
 git checkout add-instructions				//transition to branch
 git status						//status check
 touch instructions.txt					//create txt file
+git status						//status check
+git add.						//add all changes
+git commit -m "added instructions"			//commit
+git checkout master					//transition
+git branch						//branch check
+git merge add-instructions				//add changes
+git branch -d .........					//remove branch
+git checkout -						//transition
+
+
 
