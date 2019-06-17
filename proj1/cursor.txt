@@ -1,0 +1,11 @@
+mkdir git
+cd git
+mkdir proj1
+cd dir/proj1/
+git init
+git status
+touch cursor.txt
+git add .
+git commit -m "Initial first commit"
+git remote and origin https://git..............
+git puch -u origin master
